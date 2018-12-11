@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{530AAE4A-F2FD-4CC6-9C10-9FDA53964EB3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ProductsSelectionProject/MainWindow.cs">
+    <Files>
+      <File FileName="ProductsSelectionProject/Program.cs" Line="9" Column="24" />
+      <File FileName="ProductsSelectionProject/DBConnection.cs" Line="22" Column="45" />
+      <File FileName="ProductsSelectionProject/MainWindow.cs" Line="39" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ProductsSelectionProject PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

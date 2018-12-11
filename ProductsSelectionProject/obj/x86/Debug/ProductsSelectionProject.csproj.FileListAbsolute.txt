@@ -1,0 +1,11 @@
+/home/yevhens/Projects/C#/ProductsSelectionProject/ProductsSelectionProject/bin/Debug/ProductsSelectionProject.exe
+/home/yevhens/Projects/C#/ProductsSelectionProject/ProductsSelectionProject/bin/Debug/ProductsSelectionProject.pdb
+/home/yevhens/Projects/C#/ProductsSelectionProject/ProductsSelectionProject/bin/Debug/MySql.Data.dll
+/home/yevhens/Projects/C#/ProductsSelectionProject/ProductsSelectionProject/bin/Debug/MySql.Data.Entity.EF5.dll
+/home/yevhens/Projects/C#/ProductsSelectionProject/ProductsSelectionProject/bin/Debug/MySql.Data.Entity.EF6.dll
+/home/yevhens/Projects/C#/ProductsSelectionProject/ProductsSelectionProject/bin/Debug/MySql.Fabric.Plugin.dll
+/home/yevhens/Projects/C#/ProductsSelectionProject/ProductsSelectionProject/bin/Debug/MySql.Web.dll
+/home/yevhens/Projects/C#/ProductsSelectionProject/ProductsSelectionProject/obj/x86/Debug/ProductsSelectionProject.csprojResolveAssemblyReference.cache
+/home/yevhens/Projects/C#/ProductsSelectionProject/ProductsSelectionProject/obj/x86/Debug/ProductsSelectionProject.csproj.CoreCompileInputs.cache
+/home/yevhens/Projects/C#/ProductsSelectionProject/ProductsSelectionProject/obj/x86/Debug/ProductsSelectionProject.exe
+/home/yevhens/Projects/C#/ProductsSelectionProject/ProductsSelectionProject/obj/x86/Debug/ProductsSelectionProject.pdb
