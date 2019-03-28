@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 using MySql.Data;
 using MySql.Data.MySqlClient;
 
@@ -28,9 +29,14 @@ public class DBConnection {
         if (Connection == null) {
             if (String.IsNullOrEmpty(databaseName))
                 return false;
-            string connstring = string.Format("Server=localhost; database={0}; UID=root; password=***REMOVED***", databaseName);
-            connection = new MySqlConnection(connstring);
-            connection.Open();
+            using (StreamReader sr = new StreamReader("mysql_password.txt"))
+            {
+                String line = sr.ReadToEnd();
+                Console.WriteLine(line);
+                string connstring = string.Format($"Server=localhost; database={0}; UID=root; password=${line}", databaseName);
+                connection = new MySqlConnection(connstring);
+                connection.Open();
+            }
         }
 
         return true;
